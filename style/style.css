@@ -13,6 +13,9 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+body {
+    background-color: hsl(0, 0%, 95%)!important;
+}
 main {
     width: 75%;
     height: 70vh;
@@ -37,8 +40,8 @@ main div:nth-child(3) button{
 }
 main div button:hover {
     background-color: transparent!important;
-    color: white!important;
-    border: 2px solid #FFFFFF!important;
+    color: hsl(0, 0%, 95%)!important;
+    border: 2px solid hsl(0, 0%, 95%)!important;
 }
 main div span {
     font-family: 'Lexend Deca', sans-serif;
