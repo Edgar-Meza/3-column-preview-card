@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](web)
+- Solution URL: [Solution](https://edgar-meza.github.io/3-column-preview-card/)
 
 ## My process
 
